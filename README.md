@@ -1,4 +1,6 @@
 # Hi there 👋
+<img src="github-banner.png" alt="Hello world">
+
 <!--
 **MohammedRAbed/MohammedRAbed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

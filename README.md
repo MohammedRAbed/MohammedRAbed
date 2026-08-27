@@ -6,10 +6,10 @@
 
 
 ## 💼 What I Do
-- Android app development with **Jetpack Compose**, **Kotlin**, and modern architecture (MVVM, DI, Navigation)
-- Backend development using **Node.js**, **Laravel**, and **FastAPI**
+- Android app development with **Jetpack Compose** and **Kotlin**
+- Backend development using **Laravel** and **Node.js**
 - WordPress development for custom themes, e-commerce (WooCommerce), and multivendor platforms
-- Frontend projects using HTML/CSS, JavaScript, and modern frameworks
+- Frontend projects using NEXT.js and React.
 
 
 ## 🚀 Current Focus
@@ -25,13 +25,5 @@
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mo.r.abed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100006257567072) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.r.abed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-r-abed) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abedmohammed2004) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mohammed-abed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/morabed04) 
-
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammedRAbed&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohammedRAbed&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRAbed&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mo.r.abed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.r.abed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-r-abed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/morabed04) 
 
